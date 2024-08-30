@@ -9,4 +9,11 @@
     <string name="title_kindness">Kindness</string>
     <string name="title_giving">Giving</string>
     <string name="title_respect">Respect</string>
+
+    <string name="text_switch_happiness">Happiness</string>
+    <string name="text_switch_optimism">Optimism</string>
+    <string name="text_switch_kindness">Kindness</string>
+    <string name="text_switch_giving">Giving</string>
+    <string name="text_switch_respect">Respect</string>
+    <string name="text_switch_ego">Ego</string>
 </resources>
