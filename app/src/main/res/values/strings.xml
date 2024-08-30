@@ -2,4 +2,11 @@
     <string name="app_name">KeKodFirstWeekProject</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_happiness">Happiness</string>
+    <string name="title_optimism">Optimism</string>
+    <string name="title_kindness">Kindness</string>
+    <string name="title_giving">Giving</string>
+    <string name="title_respect">Respect</string>
 </resources>
