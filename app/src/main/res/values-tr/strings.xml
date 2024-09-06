@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Ana Ekran</string>
+    <string name="title_happiness">Mutluluk</string>
+    <string name="title_optimism">İyimserlik</string>
+    <string name="title_kindness">Nezaket</string>
+    <string name="title_giving">Bağış</string>
+    <string name="title_respect">Saygı</string>
+
+    <string name="text_switch_happiness">Mutluluk</string>
+    <string name="text_switch_optimism">İyimserlik</string>
+    <string name="text_switch_kindness">Nezaket</string>
+    <string name="text_switch_giving">Bağış</string>
+    <string name="text_switch_respect">Saygı</string>
+    <string name="text_switch_ego">Ego</string>
+</resources>
